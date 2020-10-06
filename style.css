@@ -1,0 +1,91 @@
+nav .tabs{
+  margin-right: 20px;
+}
+
+.active{
+  border-bottom: 2px solid orange;
+}
+
+nav .tabs:hover{
+  background-color: orange;
+  border-radius: 3px;
+}
+
+.dropdown-menu{
+  border: 2px solid orange;
+  background-color: white;
+}
+
+a.dropdown-item{
+  color: black;
+}
+
+a.dropdown-item:hover{
+  color: green;
+}
+
+a{
+  color: black;
+}
+
+
+/* body */
+
+.heading{
+  margin: 80px 0px 0px 50px;
+  border-bottom: 2px solid orange ;
+  display: inline-block;
+}
+
+.container{
+  margin-top: 50px;
+}
+
+.pic {
+  max-width: 250px;
+  max-height: 250px;
+  margin: 2% auto;
+}
+
+/* footer */
+.footer-div{
+  width: 100%;
+  color: white;
+  padding: 5% 5%;
+  margin: 10% 0 0 0;
+  box-shadow: 0px -2px #f76c6c;
+}
+
+.footer-text{
+  font-size: 20px;
+  color: black;
+}
+
+.footer-list{
+  list-style: none;
+  padding-left: 0;
+  cursor: pointer;
+}
+
+.list{
+  margin-bottom: 5px;
+}
+
+.footer-input{
+  margin: 10px 5px 20px auto;
+}
+
+.footer-button{
+  box-shadow: 4px 4px black;
+  background-color: orange;
+  border-color: orange;
+}
+
+
+h3{
+  color: black;
+}
+
+li{
+  color: black;
+}
